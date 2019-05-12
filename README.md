@@ -2,9 +2,9 @@
 
 <div align="center">
   <img width="215" src="https://i.imgur.com/LQxThih.gif" alt="autoclocker logo" />
+  
+  **Autoclocker** is an automatic attendance clock in/out system
 </div>
-
-**Autoclocker** is an automatic attendance clock in/out system
 
 ## Features
 
