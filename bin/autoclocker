@@ -1,0 +1,33 @@
+#!/usr/bin/env jruby
+# frozen_string_literal: true
+
+require './lib/config'
+
+config = Config.instance
+ENV['TZ'] = config.default.timezone
+
+require 'rubygems'
+require 'semantic_logger'
+require 'tty-prompt'
+
+%w[./lib/*.rb ./lib/api/*.rb].each do |dir|
+  Dir[dir].each { |d| require d }
+end
+
+include SemanticLogger::Loggable
+
+SemanticLogger.application = 'autoclocker'
+SemanticLogger.default_level = :info
+
+# Log to a file, and use the colorized formatter
+SemanticLogger.add_appender(file_name: 'autoclocker.log', formatter: :color)
+
+Thread.current.name = 'main'
+
+prompt = TTY::Prompt.new
+
+config.user = prompt.ask('user:')
+config.password = prompt.ask('password:')
+config.slack_token = prompt.ask('Slack token:')
+
+Scheduler.new.run
