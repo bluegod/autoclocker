@@ -20,6 +20,7 @@
 
 ```bash
 rbenv install jruby-9.2.7.0
+gem install bundler
 bundle
 cp config.yml.example config.yml
 
@@ -31,7 +32,7 @@ Update `config.yml` with your own configuration.
 
 The advice is to use a tmux/screen session and leave the script running there on a VPS/server.
 
-Less advisable, leave it running on your laptop (but the laptop will have to be turned on at clocking times)
+Less advisable would be to leave it running on your laptop (need to be turned on at clocking times)
 
 ```bash
 bin/autoclocker

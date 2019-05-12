@@ -1,0 +1,101 @@
+2019-05-12 10:25:06.867452 [36mI[0m [96189:main] [36mAuth[0m -- request -- POST https://global.admin-me.com/api/hrpmp/v2/auth/login
+2019-05-12 10:25:06.880353 [36mI[0m [96189:main] [36mAuth[0m -- response -- Status 200
+2019-05-12 10:25:07.360374 [36mI[0m [96189:main] [36mAuth[0m -- request -- GET https://global.admin-me.com/api/me
+2019-05-12 10:25:07.360992 [36mI[0m [96189:main] [36mAuth[0m -- response -- Status 200
+2019-05-12 10:26:20.286290 [36mI[0m [96675:main] [36mAuth[0m -- request -- POST https://global.admin-me.com/api/hrpmp/v2/auth/login
+2019-05-12 10:26:20.298828 [36mI[0m [96675:main] [36mAuth[0m -- response -- Status 200
+2019-05-12 10:26:20.832628 [36mI[0m [96675:main] [36mAuth[0m -- request -- GET https://global.admin-me.com/api/hrpmp/v2/me
+2019-05-12 10:26:20.834807 [36mI[0m [96675:main] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:00:41.335963 [36mI[0m [80866:main] [36mScheduler[0m -- Scheduling clock in at 2019-05-12 14:01:00 +0200
+2019-05-12 14:00:41.367503 [36mI[0m [80866:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:02:14.707022 [36mI[0m [81418:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:02:21.807265 [36mI[0m [81647:main] [36mScheduler[0m -- Scheduling clock in at 2019-05-12 14:04:00 +0200
+2019-05-12 14:02:21.881533 [36mI[0m [81647:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:02:31.826685 [36mI[0m [81680:main] [36mScheduler[0m -- Scheduling clock in at 2019-05-12 14:04:00 +0200
+2019-05-12 14:02:31.859535 [36mI[0m [81680:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:04:17.707541 [36mI[0m [82432:main] [36mScheduler[0m -- Scheduling clock in at 2019-05-12 14:05:00 +0200
+2019-05-12 14:04:17.741664 [36mI[0m [82432:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:05:46.938846 [36mI[0m [83064:main] [36mScheduler[0m -- Scheduling clock in at 2019-05-12 14:06:00 +0200
+2019-05-12 14:05:46.969741 [36mI[0m [83064:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:06:49.395793 [36mI[0m [83551:main] [36mScheduler[0m -- Scheduling clock in at 2019-05-12 14:07:00 +0200
+2019-05-12 14:06:49.431725 [36mI[0m [83551:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:07:56.657349 [36mI[0m [83971:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:08:29.703066 [36mI[0m [84263:main] [36mScheduler[0m -- Scheduling clock in at 2019-05-12 14:09:00 +0200
+2019-05-12 14:08:29.739502 [36mI[0m [84263:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:10:29.402029 [36mI[0m [85010:main] [36mScheduler[0m -- Scheduling clock in at 2019-05-12 14:11:00 +0200
+2019-05-12 14:10:29.433706 [36mI[0m [85010:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:12:02.882860 [36mI[0m [85712:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:12:21.880987 [36mI[0m [85810:main] [36mScheduler[0m -- Scheduling clock in at 2019-05-12 14:13:00 +0200
+2019-05-12 14:12:21.911734 [36mI[0m [85810:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:16:13.257783 [36mI[0m [87338:main] [36mScheduler[0m -- Scheduling clock in at 2019-05-12 14:17:00 +0200
+2019-05-12 14:16:13.300652 [36mI[0m [87338:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:19:10.891935 [36mI[0m [88541:main] [36mScheduler[0m -- Scheduling clock in at 2019-05-12 14:20:00 +0200
+2019-05-12 14:19:10.924612 [36mI[0m [88541:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:20:01.931759 [36mI[0m [88541:pool-2-thread-2] [36mAuth[0m -- request -- POST https://global.admin-me.com/api/hrpmp/v2/auth/login
+2019-05-12 14:20:01.943251 [36mI[0m [88541:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:20:02.669405 [36mI[0m [88541:pool-2-thread-2] [36mAuth[0m -- request -- GET https://global.admin-me.com/api/hrpmp/v2/me
+2019-05-12 14:20:02.672658 [36mI[0m [88541:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:20:02.673178 [36mI[0m [88541:pool-2-thread-2] ([1m2.640s[0m) [36mApi::Clocker[0m -- Calling auth API
+2019-05-12 14:20:03.360470 [36mI[0m [88541:pool-2-thread-2] [36mAuth[0m -- request -- GET https://global.admin-me.com/api/hrpmp/v2/time-and-attendance/clocking/98249824/check-visibility
+2019-05-12 14:20:03.361771 [36mI[0m [88541:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:20:03.366381 [36mI[0m [88541:pool-2-thread-2] ([1m692.8ms[0m) [36mApi::Clocker[0m -- Clocking in -- Exception: ArgumentError: bad argument (expected URI object or URI string)
+2019-05-12 14:23:22.921047 [36mI[0m [90140:main] [36mScheduler[0m -- Scheduling clock in at 2019-05-12 14:24:00 +0200
+2019-05-12 14:23:22.962725 [36mI[0m [90140:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:24:01.966462 [36mI[0m [90140:pool-2-thread-2] [36mAuth[0m -- request -- POST https://global.admin-me.com/api/hrpmp/v2/auth/login
+2019-05-12 14:24:01.977921 [36mI[0m [90140:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:24:02.665426 [36mI[0m [90140:pool-2-thread-2] [36mAuth[0m -- request -- GET https://global.admin-me.com/api/hrpmp/v2/me
+2019-05-12 14:24:02.668608 [36mI[0m [90140:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:24:02.669021 [36mI[0m [90140:pool-2-thread-2] ([1m2.631s[0m) [36mApi::Clocker[0m -- Calling auth API
+2019-05-12 14:24:03.689888 [36mI[0m [90140:pool-2-thread-2] [36mAuth[0m -- request -- GET https://global.admin-me.com/api/hrpmp/v2/time-and-attendance/clocking/9824/check-visibility
+2019-05-12 14:24:03.692034 [36mI[0m [90140:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:24:03.697009 [36mI[0m [90140:pool-2-thread-2] ([1m1.028s[0m) [36mApi::Clocker[0m -- Clocking in -- Exception: ArgumentError: bad argument (expected URI object or URI string)
+2019-05-12 14:25:15.983038 [36mI[0m [90953:main] [36mScheduler[0m -- Scheduling clock in at 2019-05-12 14:26:00 +0200
+2019-05-12 14:25:16.031982 [36mI[0m [90953:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:26:01.971380 [36mI[0m [90953:pool-2-thread-2] [36mAuth[0m -- request -- POST https://global.admin-me.com/api/hrpmp/v2/auth/login
+2019-05-12 14:26:01.981192 [36mI[0m [90953:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:26:02.583103 [36mI[0m [90953:pool-2-thread-2] [36mAuth[0m -- request -- GET https://global.admin-me.com/api/hrpmp/v2/me
+2019-05-12 14:26:02.586661 [36mI[0m [90953:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:26:02.588097 [36mI[0m [90953:pool-2-thread-2] ([1m2.554s[0m) [36mApi::Clocker[0m -- Calling auth API
+2019-05-12 14:26:03.188292 [36mI[0m [90953:pool-2-thread-2] [36mAuth[0m -- request -- GET https://global.admin-me.com/api/hrpmp/v2/time-and-attendance/clocking/9824/check-visibility
+2019-05-12 14:26:03.189604 [36mI[0m [90953:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:26:03.195511 [36mI[0m [90953:pool-2-thread-2] ([1m606.4ms[0m) [36mApi::Clocker[0m -- Clocking in -- Exception: ArgumentError: bad argument (expected URI object or URI string)
+2019-05-12 14:27:11.237331 [36mI[0m [91713:main] [36mScheduler[0m -- Scheduling clock in at 2019-05-12 14:28:00 +0200
+2019-05-12 14:27:11.272819 [36mI[0m [91713:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:28:01.782918 [36mI[0m [91713:pool-2-thread-2] [36mAuth[0m -- request -- POST https://global.admin-me.com/api/hrpmp/v2/auth/login
+2019-05-12 14:28:01.792642 [36mI[0m [91713:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:28:02.381537 [36mI[0m [91713:pool-2-thread-2] [36mAuth[0m -- request -- GET https://global.admin-me.com/api/hrpmp/v2/me
+2019-05-12 14:28:02.384010 [36mI[0m [91713:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:28:02.384411 [36mI[0m [91713:pool-2-thread-2] ([1m2.339s[0m) [36mApi::Clocker[0m -- Calling auth API
+2019-05-12 14:28:02.894635 [36mI[0m [91713:pool-2-thread-2] [36mAuth[0m -- request -- GET https://global.admin-me.com/api/hrpmp/v2/time-and-attendance/clocking/9824/check-visibility
+2019-05-12 14:28:02.896641 [36mI[0m [91713:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:28:03.777394 [36mI[0m [91713:pool-2-thread-2] ([1m1.393s[0m) [36mApi::Clocker[0m -- Clocking in -- Exception: Slack::CouldNotPostError: #<HTTParty::Response:0xfa0 parsed_response="<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<HTML><HEAD><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-1\">\n<TITLE>ERROR: The request could not be satisfied</TITLE>\n</HEAD><BODY>\n<H1>403 ERROR</H1>\n<H2>The request could not be satisfied.</H2>\n<HR noshade size=\"1px\">\nBad request.\n\n<BR clear=\"all\">\n<HR noshade size=\"1px\">\n<PRE>\nGenerated by cloudfront (CloudFront)\nRequest ID: 5rnzoSjOSn2-yxNQVC_3ma_jtmTfCQxTNje9019TfbTHNfywo5F4yA==\n</PRE>\n<ADDRESS>\n</ADDRESS>\n</BODY></HTML>", @response=#<Net::HTTPForbidden 403 Forbidden readbody=true>, @headers={"server"=>["CloudFront"], "date"=>["Sun, 12 May 2019 12:28:03 GMT"], "content-type"=>["text/html"], "content-length"=>["556"], "connection"=>["close"], "x-cache"=>["Error from cloudfront"], "via"=>["1.1 3e206dcbbb3d5f0cbfa80cebfd0de62d.cloudfront.net (CloudFront)"], "x-amz-cf-id"=>["5rnzoSjOSn2-yxNQVC_3ma_jtmTfCQxTNje9019TfbTHNfywo5F4yA=="]}>
+2019-05-12 14:30:48.265660 [36mI[0m [93131:main] [36mScheduler[0m -- Scheduling clock in at 2019-05-12 14:31:00 +0200
+2019-05-12 14:30:48.303746 [36mI[0m [93131:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:31:01.866385 [36mI[0m [93131:pool-2-thread-2] [36mAuth[0m -- request -- POST https://global.admin-me.com/api/hrpmp/v2/auth/login
+2019-05-12 14:31:01.884392 [36mI[0m [93131:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:31:02.502314 [36mI[0m [93131:pool-2-thread-2] [36mAuth[0m -- request -- GET https://global.admin-me.com/api/hrpmp/v2/me
+2019-05-12 14:31:02.505823 [36mI[0m [93131:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:31:02.506267 [36mI[0m [93131:pool-2-thread-2] ([1m2.478s[0m) [36mApi::Clocker[0m -- Calling auth API
+2019-05-12 14:31:03.103413 [36mI[0m [93131:pool-2-thread-2] [36mAuth[0m -- request -- GET https://global.admin-me.com/api/hrpmp/v2/time-and-attendance/clocking/9824/check-visibility
+2019-05-12 14:31:03.104807 [36mI[0m [93131:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:31:04.150749 [36mI[0m [93131:pool-2-thread-2] ([1m1.644s[0m) [36mApi::Clocker[0m -- Clocking in -- Exception: Slack::CouldNotPostError: #<HTTParty::Response:0xfa0 parsed_response="<!DOCTYPE HTML PUBLIC \"-//W3C//DTD HTML 4.01 Transitional//EN\" \"http://www.w3.org/TR/html4/loose.dtd\">\n<HTML><HEAD><META HTTP-EQUIV=\"Content-Type\" CONTENT=\"text/html; charset=iso-8859-1\">\n<TITLE>ERROR: The request could not be satisfied</TITLE>\n</HEAD><BODY>\n<H1>403 ERROR</H1>\n<H2>The request could not be satisfied.</H2>\n<HR noshade size=\"1px\">\nBad request.\n\n<BR clear=\"all\">\n<HR noshade size=\"1px\">\n<PRE>\nGenerated by cloudfront (CloudFront)\nRequest ID: aypBh9YkUqgLSVddzZ_3WXmloVvalaxR6wTik59r6-oL-W8mkgzY0g==\n</PRE>\n<ADDRESS>\n</ADDRESS>\n</BODY></HTML>", @response=#<Net::HTTPForbidden 403 Forbidden readbody=true>, @headers={"server"=>["CloudFront"], "date"=>["Sun, 12 May 2019 12:31:04 GMT"], "content-type"=>["text/html"], "content-length"=>["556"], "connection"=>["close"], "x-cache"=>["Error from cloudfront"], "via"=>["1.1 20b824f135e13d1d95e8287ed9dcf670.cloudfront.net (CloudFront)"], "x-amz-cf-id"=>["aypBh9YkUqgLSVddzZ_3WXmloVvalaxR6wTik59r6-oL-W8mkgzY0g=="]}>
+2019-05-12 14:32:11.184940 [36mI[0m [93697:main] [36mScheduler[0m -- Scheduling clock in at 2019-05-12 14:33:00 +0200
+2019-05-12 14:32:11.304353 [36mI[0m [93697:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:33:01.662614 [36mI[0m [93697:pool-2-thread-2] [36mAuth[0m -- request -- POST https://global.admin-me.com/api/hrpmp/v2/auth/login
+2019-05-12 14:33:01.683245 [36mI[0m [93697:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:33:02.182399 [36mI[0m [93697:pool-2-thread-2] [36mAuth[0m -- request -- GET https://global.admin-me.com/api/hrpmp/v2/me
+2019-05-12 14:33:02.185565 [36mI[0m [93697:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:33:02.185976 [36mI[0m [93697:pool-2-thread-2] ([1m2.116s[0m) [36mApi::Clocker[0m -- Calling auth API
+2019-05-12 14:33:02.816348 [36mI[0m [93697:pool-2-thread-2] [36mAuth[0m -- request -- GET https://global.admin-me.com/api/hrpmp/v2/time-and-attendance/clocking/9824/check-visibility
+2019-05-12 14:33:02.817724 [36mI[0m [93697:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:33:03.550545 [36mI[0m [93697:pool-2-thread-2] ([1m1.364s[0m) [36mApi::Clocker[0m -- Clocking in -- Exception: Slack::CouldNotPostError: #<HTTParty::Response:0xfa0 parsed_response="channel_not_found", @response=#<Net::HTTPNotFound 404 Not Found readbody=true>, @headers={"content-type"=>["text/html"], "transfer-encoding"=>["chunked"], "connection"=>["close"], "date"=>["Sun, 12 May 2019 12:33:03 GMT"], "server"=>["Apache"], "vary"=>["Accept-Encoding"], "strict-transport-security"=>["max-age=31536000; includeSubDomains; preload"], "referrer-policy"=>["no-referrer"], "x-frame-options"=>["SAMEORIGIN"], "access-control-allow-origin"=>["*"], "x-via"=>["haproxy-www-ohhe"], "x-cache"=>["Error from cloudfront"], "via"=>["1.1 bfda76e499b34140e5ee184adb87d275.cloudfront.net (CloudFront)"], "x-amz-cf-id"=>["YbqE4H_Atlc35Bx9ADz5RJokIOA6_bpXtABJw3G3PQMx7B2UWZJL7g=="]}>
+2019-05-12 14:37:34.951479 [36mI[0m [95851:main] [36mScheduler[0m -- Scheduling clock in at 2019-05-12 14:38:00 +0200
+2019-05-12 14:37:35.013340 [36mI[0m [95851:main] [36mScheduler[0m -- Scheduling clock out at 2019-05-12 16:00:00 +0200
+2019-05-12 14:38:01.629594 [36mI[0m [95851:pool-2-thread-2] [36mAuth[0m -- request -- POST https://global.admin-me.com/api/hrpmp/v2/auth/login
+2019-05-12 14:38:01.638931 [36mI[0m [95851:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:38:02.143133 [36mI[0m [95851:pool-2-thread-2] [36mAuth[0m -- request -- GET https://global.admin-me.com/api/hrpmp/v2/me
+2019-05-12 14:38:02.145977 [36mI[0m [95851:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:38:02.146392 [36mI[0m [95851:pool-2-thread-2] ([1m2.098s[0m) [36mApi::Clocker[0m -- Calling auth API
+2019-05-12 14:38:02.638536 [36mI[0m [95851:pool-2-thread-2] [36mAuth[0m -- request -- GET https://global.admin-me.com/api/hrpmp/v2/time-and-attendance/clocking/9824/check-visibility
+2019-05-12 14:38:02.640999 [36mI[0m [95851:pool-2-thread-2] [36mAuth[0m -- response -- Status 200
+2019-05-12 14:38:03.313740 [36mI[0m [95851:pool-2-thread-2] ([1m1.167s[0m) [36mApi::Clocker[0m -- Clocking in
