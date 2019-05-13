@@ -41,7 +41,7 @@ class Slack
   end
 
   def fire_hook(text, attachment: nil, channel: Config.instance.default.slack_channel)
-    body = { text: text }
+    body = { text: text, link_names: 1 }
     body[:channel] = channel
     body[:attachments] = [{ text: attachment, color: 'danger' }] if attachment
     response = HTTParty.post(@url, body: body.to_json)
