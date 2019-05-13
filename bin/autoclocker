@@ -27,7 +27,7 @@ Thread.current.name = 'main'
 prompt = TTY::Prompt.new
 
 config.user = prompt.ask('user:')
-config.password = prompt.ask('password:')
-config.slack_token = prompt.ask('Slack token:')
+config.password = prompt.mask('password:')
+config.slack_token = prompt.mask('Slack token:')
 
 Scheduler.new.run

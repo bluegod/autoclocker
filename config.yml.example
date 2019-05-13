@@ -5,6 +5,7 @@ clock_out_time: '16:00'
 slack_user: jameslopez
 slack_channel: loc_spain_clockers
 timezone: Europe/Madrid
+location: LCG # MAD for Madrid
 holidays_region: es_ga # Example regions: https://github.com/holidays/definitions/blob/master/es.yaml#L16
 holidays_observed: true # https://github.com/holidays/holidays#check-for-observed-holidays
 api_url: 'https://api.com/api/v1'

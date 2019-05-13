@@ -17,7 +17,7 @@ class Scheduler
       logger.info("Scheduling clock #{moment.type} at #{moment.time}")
 
       Concurrent::Promises.schedule(moment.time) do
-        Api::Clocker.new.public_send(moment.type)
+        Api::Clocker.new(moment).clock!
       end
     end
 

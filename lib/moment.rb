@@ -14,6 +14,10 @@ class Moment
     past? || holiday? || weekend?
   end
 
+  def time_formatted
+    @time.strftime('%Y-%m-%d %H:%M:%S')
+  end
+
   private
 
   def past?
